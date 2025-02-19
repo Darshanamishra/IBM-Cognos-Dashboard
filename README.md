@@ -1,5 +1,5 @@
 # IBM-Cognos-Dashboard
-
+ 
 Current and Future Technology Usage and Demographics Dashboard
 
 This repository contains a comprehensive IBM Cognos Analytics dashboard for visualizing survey data on current and future technology usage and respondent demographics. The dashboard provides insightful visualizations and analysis to understand trends and patterns in technology adoption and demographic influences.
